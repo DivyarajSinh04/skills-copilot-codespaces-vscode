@@ -20,4 +20,4 @@ http.createServer(function (req, res) {
         return res.end();
     });
 }).listen(8080); // Listen to port 8080
-console.log('Server running at http://
+console.log('Server running at http:');
